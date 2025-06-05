@@ -1483,7 +1483,7 @@
                 } else if (orderedQuestions && currentQuestionIndex === orderedQuestions.length -1) {
                     showResults();
                 }
-            }, 4000);
+            }, 7500);
         }
 
         function setStatusClass(element, correct) {
